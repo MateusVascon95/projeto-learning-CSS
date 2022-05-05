@@ -1,0 +1,26 @@
+/* Sites referencia: https://fontawesome.com/ 
+https://www.pexels.com/pt-br/ 
+https://pt.clippingmagic.com/ 
+https://uigradients.com/#Flickr 
+https://mycolor.space/  */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #42a038;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: url(./plano-de-fundo.jpg) no-repeat center center fixed;
+    background-size: cover; */
+    
+}
